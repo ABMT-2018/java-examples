@@ -1,4 +1,4 @@
-package ch.ethz.matsim.abmt;
+package ch.ethz.matsim.abmt.filemanipulation;
 
 import org.matsim.api.core.v01.Id;
 import org.matsim.api.core.v01.Scenario;
