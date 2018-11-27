@@ -1,4 +1,11 @@
-# matsim-example-project
+# ABMT 2018
+
+This repository contains the result of java-based "lab sessions" for the Agent Based Modeling in Transportation
+teached at ETH Zurich in the Fall Semester 2018.
+
+It was initialized by cloning the [matsim example project](https://github.com/matsim-org/matsim-example-project),
+which is the recommended way to start programming against MATSim.
+
 
 A small example of how to use MATSim as a library.
 
@@ -26,4 +33,5 @@ pieces of the failed attempt in the directory and start over.
 
 ### Import into IntelliJ
 
-... todo ...
+1. Go to `File->New->Project from Version Control->Git` and put in the URI given above.
+2. In the pop-up that arises, click "Add as a Maven Project"
